@@ -48,9 +48,7 @@ Source: [Kaggle - Superstore Dataset](https://www.kaggle.com/datasets)
 ---
 
 ## Preview
+<img width="435" height="482" alt="image" src="https://github.com/user-attachments/assets/a13caf3a-4696-421b-87f9-180040afb0c3" />
 
 
----
 
-## Author
-Bhavya Tummala
